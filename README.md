@@ -13,11 +13,9 @@ Goal:
 To help users achieve their fitness goals through personalized recommendations, progress
 tracking, and real-time motivation — all in one app.
 Problem:
-
 • No personalized guidance
 • Poor progress tracking
 • Lack of motivation
-• Time constraints
 Value:
 
 AI Fitness Coach provides tailored plans, real-time insights, and AI-driven support — a smart,
